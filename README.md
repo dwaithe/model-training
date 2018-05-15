@@ -1,4 +1,4 @@
-# Introductory image analysis teaching for python on biological images.
+# Introductory image processing on biological images using python.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dwaithe/model-training/master?filepath=Introduction%20to%20Image%20Analysis%20with%20Python.ipynb)
 
