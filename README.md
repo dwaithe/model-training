@@ -1,4 +1,4 @@
-# Introductory teaching for python.
+# Introductory image analysis teaching for python on biological images.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dwaithe/model-training/master?filepath=Introduction%20to%20Image%20Analysis%20with%20Python.ipynb)
 
@@ -6,4 +6,4 @@
 
 2) Using your jupyter (ipython) notebook navigate to: 'Introduction to Image Analysis with Python.ipynb'.
 
-     This practical is based on introducing the jupyter notebook software for image processing and analysis. Allow around 20 min for this.
+     This practical is based on introducing the jupyter notebook software for image processing and analysis. Allow around 1 h for this.
