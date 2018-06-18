@@ -1,5 +1,5 @@
 # Introductory image processing on biological images using python.
-
+[![DOI](https://zenodo.org/badge/133489807.svg)](https://zenodo.org/badge/latestdoi/133489807)
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dwaithe/model-training/master?filepath=Introduction%20to%20Image%20Analysis%20with%20Python.ipynb)
 
